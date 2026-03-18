@@ -1,0 +1,10 @@
+D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_1\MathLib\MathLib\bin\Debug\MathLib.dll
+D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_1\MathLib\MathLib\bin\Debug\MathLib.pdb
+D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_1\MathLib\MathLib\obj\Debug\MathLib.csprojResolveAssemblyReference.cache
+D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_1\MathLib\MathLib\obj\Debug\MathLib.dll
+D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_1\MathLib\MathLib\obj\Debug\MathLib.pdb
+D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Task_1(Using Web Api)\MathLib\MathLib\bin\Debug\MathLib.dll
+D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Task_1(Using Web Api)\MathLib\MathLib\bin\Debug\MathLib.pdb
+D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Task_1(Using Web Api)\MathLib\MathLib\obj\Debug\MathLib.csprojResolveAssemblyReference.cache
+D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Task_1(Using Web Api)\MathLib\MathLib\obj\Debug\MathLib.dll
+D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Task_1(Using Web Api)\MathLib\MathLib\obj\Debug\MathLib.pdb

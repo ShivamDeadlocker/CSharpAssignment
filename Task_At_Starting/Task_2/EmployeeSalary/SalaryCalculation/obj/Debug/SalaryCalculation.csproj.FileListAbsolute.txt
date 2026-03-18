@@ -1,0 +1,10 @@
+D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_2\EmployeeSalary\SalaryCalculation\bin\Debug\SalaryCalculation.dll
+D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_2\EmployeeSalary\SalaryCalculation\bin\Debug\SalaryCalculation.pdb
+D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_2\EmployeeSalary\SalaryCalculation\obj\Debug\SalaryCalculation.csprojResolveAssemblyReference.cache
+D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_2\EmployeeSalary\SalaryCalculation\obj\Debug\SalaryCalculation.dll
+D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_2\EmployeeSalary\SalaryCalculation\obj\Debug\SalaryCalculation.pdb
+D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Task_2\EmployeeSalary\SalaryCalculation\bin\Debug\SalaryCalculation.dll
+D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Task_2\EmployeeSalary\SalaryCalculation\bin\Debug\SalaryCalculation.pdb
+D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Task_2\EmployeeSalary\SalaryCalculation\obj\Debug\SalaryCalculation.csprojResolveAssemblyReference.cache
+D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Task_2\EmployeeSalary\SalaryCalculation\obj\Debug\SalaryCalculation.dll
+D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Task_2\EmployeeSalary\SalaryCalculation\obj\Debug\SalaryCalculation.pdb
